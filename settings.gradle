@@ -1,0 +1,3 @@
+rootProject.name='DigitsRecognition'
+include ':app'
+include ':openCVLibrary320'
